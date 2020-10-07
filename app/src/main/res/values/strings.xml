@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tampil Nama</string>
+    <string name="inptNama">Masukkan nama anda</string>
+    <string name="btn_TN">Tampilkan</string>
+</resources>
